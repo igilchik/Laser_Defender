@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51654a752b1211544b52c9b3501f09be, type: 3}
+  m_Name: Config2
+  m_EditorClassIdentifier: 
+  pathPrefab: {fileID: 1298037000170306085, guid: 40e4dc050ca94de4084dcb7001327489, type: 3}
+  moveSpeed: 3
+  enemyPrefab: {fileID: 2285421251511396061, guid: 62a030b53e724d64e810447a9a306881, type: 3}
+  numberOfEnemies: 5
+  spawnInterval: 4
